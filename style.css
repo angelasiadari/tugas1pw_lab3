@@ -1,0 +1,19 @@
+.jumbotron{
+  padding-top: 6rem;
+  margin-bottom: 0rem;
+  background-color: #eeeeee;
+}
+
+#about{
+  margin-top: auto;
+  border: 3rem;
+}
+
+
+#gallery {
+  background-color: #eeeeee;
+}
+
+section{
+  padding-top: 5rem;
+}
